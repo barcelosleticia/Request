@@ -1,0 +1,10 @@
+c:\Users\Leticia\Desktop\Requisicao\api\obj\Debug\netcoreapp2.0\api.csproj.CoreCompileInputs.cache
+c:\Users\Leticia\Desktop\Requisicao\api\obj\Debug\netcoreapp2.0\api.AssemblyInfoInputs.cache
+c:\Users\Leticia\Desktop\Requisicao\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
+c:\Users\Leticia\Desktop\Requisicao\api\bin\Debug\netcoreapp2.0\api.deps.json
+c:\Users\Leticia\Desktop\Requisicao\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.json
+c:\Users\Leticia\Desktop\Requisicao\api\bin\Debug\netcoreapp2.0\api.runtimeconfig.dev.json
+c:\Users\Leticia\Desktop\Requisicao\api\bin\Debug\netcoreapp2.0\api.dll
+c:\Users\Leticia\Desktop\Requisicao\api\bin\Debug\netcoreapp2.0\api.pdb
+c:\Users\Leticia\Desktop\Requisicao\api\obj\Debug\netcoreapp2.0\api.dll
+c:\Users\Leticia\Desktop\Requisicao\api\obj\Debug\netcoreapp2.0\api.pdb
